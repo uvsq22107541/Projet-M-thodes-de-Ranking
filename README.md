@@ -3,7 +3,7 @@
 ![Interfece de l'application 1](Capture.PNG)
 
 ## <u>💻 Execution du programme 💻</u>
-Pour executer le programme il faut juste créer un dossier nommé 'data' contenant les 6 fichiers texte (graphes du web)  
+Pour executer le programme il faut juste créer un dossier nommé 'data' contenant les 6 fichiers texte (graphes du web) dans le dossier Code 
  #### 1- wb-cs-stanford.txt
  #### 2- Stanford.txt
  #### 3- Stanford_BerkeleyV2
